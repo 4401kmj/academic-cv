@@ -17,11 +17,11 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/CV_MinjunKang.pdf
     design:
       css_class: bright
-      background:
-        color: white
+      # background:
+      #   color: white
         # image:
         #   # Add your image background to `assets/media/`.
         #   filename: stacked-peaks.svg
@@ -67,10 +67,20 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Featured presentation
       filters:
         folders:
-          - event
+          - featured presentation
+    design:
+      view: article-grid
+      columns: 1
+  - block: markdown
+    id: conferences
+    content:
+      title: Conferences
+      filters:
+        folders:
+          - conferences
     design:
       view: article-grid
       columns: 1
