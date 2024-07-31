@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/publication/</loc>
+    <loc>http://localhost:1313/publication/publication1/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/publication1/</loc>
+    <loc>http://localhost:1313/publication/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -139,6 +139,11 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/conferences/</loc>
+    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/conferences/2020-kscbp/</loc>
+    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

@@ -40,9 +40,8 @@ image:
 #   - example
 ---
 
-### Title
 
-Stable receptive fields in the early visual pathways enable robust continual learning
+"Stable receptive fields in the early visual pathways enable robust continual learning"
 
 <!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.

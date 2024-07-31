@@ -63,12 +63,19 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     </item>
     
     <item>
+      <title>Stable receptive fields in the early layer enable robust continual learning</title>
+      <link>http://localhost:1313/conferences/2024-cosyne/</link>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/conferences/2024-cosyne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>2024 Cosyne</title>
       <link>http://localhost:1313/featured_presentation/example/</link>
       <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/featured_presentation/example/</guid>
-      <description>&lt;h3 id=&#34;title&#34;&gt;Title&lt;/h3&gt;
-&lt;p&gt;Stable receptive fields in the early visual pathways enable robust continual learning&lt;/p&gt;
+      <description>&lt;p&gt;&amp;ldquo;Stable receptive fields in the early visual pathways enable robust continual learning&amp;rdquo;&lt;/p&gt;
 &lt;!-- 
 
 
@@ -351,7 +358,7 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 
 
 
-&lt;div id=&#34;chart-432169758&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-174562839&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -369,7 +376,7 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-432169758&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-174562839&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -991,6 +998,22 @@ Parallel 4   :         des6, after des4, 1d
 &lt;/ul&gt;
 &lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Does the prefrontal cortex guide optimal foraging?</title>
+      <link>http://localhost:1313/conferences/2023-ksbns/</link>
+      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/conferences/2023-ksbns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal Dynamics of Prefrontal Cortex Subregion Activity During Working Memory Task: An fNIRS Study</title>
+      <link>http://localhost:1313/conferences/2020-kscbp/</link>
+      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/conferences/2020-kscbp/</guid>
+      <description></description>
     </item>
     
   </channel>

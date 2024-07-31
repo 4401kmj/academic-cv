@@ -74,16 +74,27 @@ sections:
     design:
       view: article-grid
       columns: 1
-  - block: markdown
+  - block: collection
     id: conferences
     content:
       title: Conferences
+      text: ""
       filters:
         folders:
           - conferences
+        exclude_featured: false
     design:
-      view: article-grid
-      columns: 1
+      view: citation
+
+#   - block: markdown
+#     id: conferences
+#     content:
+#       title: Conferences
+#       text: <div style="width: 80%; margin: 0 auto;">
+#     <!-- Your Markdown content here -->
+#     <h1>Markdown Content</h1>
+#     <p>This is a paragraph in a wider Markdown block.</p>
+# </div>
   - block: collection
     id: news
     content:
