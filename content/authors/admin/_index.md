@@ -53,48 +53,78 @@ education:
       Major GPA : 4.11 / 4.3
       
 work:
-  - position: Research Associate
-    company_name: Cognitive Intelligence Lab
-    company_url: https://cogi.kaist.ac.kr/
+  - position: Cognitive Intelligence Lab
+    company_name: Research Associate
     company_logo: ''
     date_start: 2023-09-01
     date_end: ''
-    summary: ''
+    summary: |
+      • Advisor: Prof. Se-Bum Paik
 
+      • Study of early visualpathway’s functional role using deep neural network (DNN)
+
+      • Examine whether inherent receptive fields enable general object recognition
+
+      • Incorporated Gabor filters in the first layer of DNN to model biological brains
+
+      • Showed our model recognizes objects under dynamic domain shifts through shape-biased feature encoding
+  
+  - position: Brain and Machine Intelligence Lab
+    company_name: Undergraduate Research Intern
+    company_logo: ''
+    date_start: 2023-03-01
+    date_end: 2024-06-01
+    summary: |
+      • Advisor: Prof. Sang Wan Lee
+
+      • Study of human model-based (MB) reinforcement learning system using fMRI
+
+      • Examine whether MB system would also use temporal difference to estimate
+      drifting rewards and generate reward prediction error (MB-RPE)
+
+      • Designed foraging tasks, conducted human behavior experiments
+
+      • Analyzed fMRI data, found significant MB-RPE signals from prefrontal cortex
+  - position: Developmental Cognitive Neuroscience Lab
+    company_name: Undergraduate Research Intern
+    company_logo: ''
+    date_start: 2019-12-01
+    date_end: 2020-08-01
+    summary: |
+      • Advisor: Prof. Sang Ah Lee
+
+      • Study of prefrontal cortex subregions’ temporal dynamics duringworkingmemory
+      using fNIRS
+
+      • Designed working memory task, conducted human behavior experiments
+
+      • Constructed novel MATLAB-based preprocessing toolbox for fNIRS data
+
+      • Devised new method for accessing decoding performance over time
+
+      
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-# skills:
-#   - name: Technical Skills
-#     items:
-#       - name: Python
-#         description: ''
-#         percent: 80
-#         icon: code-bracket
-#       - name: Data Science
-#         description: ''
-#         percent: 100
-#         icon: chart-bar
-#       - name: SQL
-#         description: ''
-#         percent: 40
-#         icon: circle-stack
-#   - name: Hobbies
-#     color: '#eeac02'
-#     color_border: '#f0bf23'
-#     items:
-#       - name: Hiking
-#         description: ''
-#         percent: 60
-#         icon: person-simple-walk
-#       - name: Cats
-#         description: ''
-#         percent: 100
-#         icon: cat
-#       - name: Photography
-#         description: ''
-#         percent: 80
-#         icon: camera
+skills:
+  - name: Softwares
+    items:
+      - name: MATLAB
+        description: ''
+        icon: code-bracket
+      - name: Python
+        description: ''
+        icon: code-bracket-square
+      - name: LaTex
+        icon: latex
+  - name: Others
+    items:
+      - name: Network simulation
+        icon: circle-stack
+      - name: Neural data analysis
+        icon: chart-bar
+      - name: Behavioral modeling
+        icon: users
 
 # languages:
 #   - name: English
@@ -108,14 +138,14 @@ work:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-# awards:
-#   - title: Neural Networks and Deep Learning
-#     url: https://www.coursera.org/learn/neural-networks-deep-learning
-#     date: '2023-11-25'
-#     awarder: Coursera
-#     icon: coursera
-#     summary: |
-#       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+awards:
+  - title: Best Presentation Award (2020 KSCBP)
+    date: '2020-08-28'
+    image:
+    summary: |
+      I received the best presentation award from the 2020 Korean Society for Cognitive & Biological Psychology (KSCBP) !!
+
+      The Poster presentation was substituted to recoreded-video due to COVID-19
 ---
 
 ## About Me

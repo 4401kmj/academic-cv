@@ -64,9 +64,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>2024 Cosyne</title>
-      <link>http://localhost:1313/conference/example/</link>
+      <link>http://localhost:1313/featured-presentation/example/</link>
       <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/conference/example/</guid>
+      <guid>http://localhost:1313/featured-presentation/example/</guid>
       <description>&lt;h3 id=&#34;title&#34;&gt;Title&lt;/h3&gt;
 &lt;p&gt;Stable receptive fields in the early visual pathways enable robust continual learning&lt;/p&gt;
 &lt;!-- 
@@ -351,7 +351,7 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 
 
 
-&lt;div id=&#34;chart-139852467&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-671384295&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -369,7 +369,7 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-139852467&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-671384295&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
