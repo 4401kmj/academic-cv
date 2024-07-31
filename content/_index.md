@@ -70,7 +70,7 @@ sections:
       title: Featured presentation
       filters:
         folders:
-          - featured presentation
+          - featured_presentation
     design:
       view: article-grid
       columns: 1
