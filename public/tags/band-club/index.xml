@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Band Club | Minjun Kang</title>
+    <link>http://localhost:1313/tags/band-club/</link>
+      <atom:link href="http://localhost:1313/tags/band-club/index.xml" rel="self" type="application/rss+xml" />
+    <description>Band Club</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu4e76d6fbac24aaa02c98ac9f8ca08b2f_29139_512x512_fill_lanczos_center_3.png</url>
+      <title>Band Club</title>
+      <link>http://localhost:1313/tags/band-club/</link>
+    </image>
+    
+    <item>
+      <title>KAIST Muse</title>
+      <link>http://localhost:1313/experience/muse/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/experience/muse/</guid>
+      <description>&lt;p&gt;I joined a band club called Muse at KAIST. I primarily played the piano (keyboard) and also sang. Feel free to visit our youtube for recent videos!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

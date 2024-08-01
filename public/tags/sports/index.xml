@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sports | Minjun Kang</title>
+    <link>http://localhost:1313/tags/sports/</link>
+      <atom:link href="http://localhost:1313/tags/sports/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sports</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu4e76d6fbac24aaa02c98ac9f8ca08b2f_29139_512x512_fill_lanczos_center_3.png</url>
+      <title>Sports</title>
+      <link>http://localhost:1313/tags/sports/</link>
+    </image>
+    
+    <item>
+      <title>Sports Climbing</title>
+      <link>http://localhost:1313/hobby/climbing/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hobby/climbing/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;http://localhost:1313/hobby/climbing/climbing.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+
+I really enjoy sports climbing, particularly bouldering!! This is my very first hobby that I do at least once a week.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pilates</title>
+      <link>http://localhost:1313/hobby/pilates/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hobby/pilates/</guid>
+      <description>&lt;p&gt;I recently started pilates to enhance my core and flexibility!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

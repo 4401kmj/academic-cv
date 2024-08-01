@@ -20,8 +20,8 @@ main:
     url: research/
     weight: 14
   - name: Experiences
-    url: experience/
+    url: experiences/
     weight: 15
   - name: Hobbies
-    url: experience/
+    url: hobbies/
     weight: 16
