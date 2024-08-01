@@ -31,12 +31,13 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: '4401kmj@gmail.com'
+    url: 'mailto:4401kmj@kaist.ac.kr'
     label: E-mail Me
-  - icon: brands/github
-    url: https://github.com/4401kmj
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=oVoPChoAAAAJ&hl=ko
+  - icon: brands/github
+    url: https://github.com/4401kmj
+
 
 interests:
   - Computational neuroscience
@@ -141,7 +142,7 @@ skills:
 awards:
   - title: Best Presentation Award (2020 KSCBP)
     date: '2020-08-28'
-    image:
+    image: 
     summary: |
       I received the best presentation award from the 2020 Korean Society for Cognitive & Biological Psychology (KSCBP) !!
 
@@ -149,4 +150,8 @@ awards:
 ---
 
 ## About Me
-Hi, My name is Minjun Kang. I graduated from the Korea Advanced Institute of Science and Technology (KAIST) with a BS in Bio and Brain Engineering. I am currently employed in the Cognitive Intelligence Lab at KAIST. My research interest is computational neuroscience, which uses mathematical modeling to explain high-level cognitive functions. My current research utilizes deep visual neural networks to bridge the gaps between biological and computational visions.
+Hi, my name is Minjun Kang. I graduated from the Korea Advanced Institute of Science and Technology ([KAIST](https://kaist.ac.kr)) in August 2023! Currently, I am working at the [Cognitive Intelligence Lab](https://cogi.kaist.ac.kr) at KAIST. 
+
+My research interests lies in the **<u>mathematical modeling of high-level cognitive functions</u>**. Specifically, I am fasinated by the visual system and how it differs from the artificial visions in terms of their adaptability and robustness across dynanmically changing environments, similar to our realistic nature. You can find detailed research materials in the [Publications](/#papers) section. 
+
+To learn more about me, including my leadership roles and hobbies, feel free to explore the Leadership and Hobbies sections!
