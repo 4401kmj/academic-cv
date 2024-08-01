@@ -50,8 +50,14 @@ education:
     date_start: 2017-02-28
     date_end: 2024-08-28
     summary: |
-      GPA: 3.97 / 4.3
-      Major GPA : 4.11 / 4.3
+      GPA: 3.97 / 4.3 (Major GPA : 4.11 / 4.3)
+
+      Courses include:
+        - Statistics / Linear algebra
+        - Biomedical statistics & Statistical learning 
+        - Computational neuroscience 
+        - Brain-inspired machine intelligence 
+        - Bio-signal processing / System modeling / Biomedical imaging
       
 work:
   - position: Cognitive Intelligence Lab
@@ -142,6 +148,7 @@ skills:
 awards:
   - title: Best Presentation Award (2020 KSCBP)
     date: '2020-08-28'
+    icon: kscbp
     image: 
     summary: |
       I received the best presentation award from the 2020 Korean Society for Cognitive & Biological Psychology (KSCBP) !!
@@ -150,8 +157,8 @@ awards:
 ---
 
 ## About Me
-Hi, my name is Minjun Kang. I graduated from the Korea Advanced Institute of Science and Technology ([KAIST](https://kaist.ac.kr)) in August 2023! Currently, I am working at the [Cognitive Intelligence Lab](https://cogi.kaist.ac.kr) at KAIST. 
+Hi, my name is Minjun Kang. I graduated from the Korea Advanced Institute of Science and Technology ([KAIST](https://kaist.ac.kr)) in August 2023. Currently, I am working at the [Cognitive Intelligence Lab](https://cogi.kaist.ac.kr) at KAIST. 
 
-My research interests lies in the **<u>mathematical modeling of high-level cognitive functions</u>**. Specifically, I am fasinated by the visual system and how it differs from the artificial visions in terms of their adaptability and robustness across dynanmically changing environments, similar to our realistic nature. You can find detailed research materials in the [Publications](/#papers) section. 
+My research interests lies in the **<u>mathematical modeling of high-level cognitive functions</u>**. Specifically, I am fasinated by how the biological visual system differs from artificial vision in its adaptability and robustness under dynanmic environments, much like our natural world. You can find detailed research materials in the [Publications](/#papers) section. 
 
-To learn more about me, including my leadership roles and hobbies, feel free to explore the Leadership and Hobbies sections!
+To learn more about me, including my on-campus activities and hobbies, feel free to explore the [Experience](experiences/) and [Hobbies](hobbies/) sections!

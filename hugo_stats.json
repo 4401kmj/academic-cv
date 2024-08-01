@@ -1,6 +1,7 @@
 {
   "htmlElements": {
     "tags": [
+      "?xml",
       "a",
       "article",
       "aside",
@@ -19,6 +20,7 @@
       "hr",
       "html",
       "i",
+      "image",
       "img",
       "input",
       "label",
@@ -196,6 +198,7 @@
       "h-48",
       "h-5",
       "h-6",
+      "h-7",
       "h-[18px]",
       "hb-attachment-large",
       "hb-attachment-link",
@@ -459,6 +462,7 @@
       "w-5",
       "w-6",
       "w-64",
+      "w-7",
       "w-full",
       "xl:block",
       "xl:px-5",
@@ -466,6 +470,7 @@
       "z-30"
     ],
     "ids": [
+      "Layer_1",
       "about-me",
       "conferences",
       "hide-button",
