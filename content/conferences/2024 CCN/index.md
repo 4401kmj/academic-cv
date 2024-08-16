@@ -9,7 +9,7 @@ date: "2024-08-06 "
 publishDate: "2024-08-01"
 
 # Publication name and optional abbreviated publication name.
-publication: "*Conference of Computational and Cognitive Neuroscience* ***(CCN)***"
+publication: "*Conference on Cognitive Computational Neuroscience* ***(CCN)***"
 
 url_poster: poster/CCN_poster.pdf
 

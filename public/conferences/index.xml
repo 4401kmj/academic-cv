@@ -5,7 +5,7 @@
     <link>http://localhost:1313/conferences/</link>
       <atom:link href="http://localhost:1313/conferences/index.xml" rel="self" type="application/rss+xml" />
     <description>Conferences</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu4e76d6fbac24aaa02c98ac9f8ca08b2f_29139_512x512_fill_lanczos_center_3.png</url>
       <title>Conferences</title>
@@ -15,7 +15,7 @@
     <item>
       <title> Stable receptive fields in the early layer enable robust continual learning under dynamic environments</title>
       <link>http://localhost:1313/conferences/2024-ccn/</link>
-      <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/conferences/2024-ccn/</guid>
       <description></description>
     </item>
