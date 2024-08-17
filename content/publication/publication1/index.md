@@ -1,5 +1,5 @@
 ---
-title: "Hard-wired filters for environment-agnostic object recognition"
+title: "Inherent receptive fields in the early layer enable robust continual learning under dynamic environments"
 authors:
 - admin
 - Seungdae Baek
@@ -19,7 +19,9 @@ publishDate: "2024-07-01"
 publication: "*Conference on Cognitive Computational Neuroscience*"
 # publication_short: ""
 
-# abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Continuously learning new information is a fundamental ability of animals but a challenging problem for conventional deep neural networks (DNNs), which suffer from catastrophic forgetting. Unlike DNNs, whose early layers change depending on training images, the brain’s early visual pathway has innate Gabor-like receptive fields that are stably maintained throughout a lifetime. Here, we demonstrate that fixing early layers of DNNs using Gabor filters, resembling the primary visual cortex (V1) cells’ receptive fields, enables continual learning under dynamic environments. We first showed that networks with fixed Gabor filters maintained the previous performance even when sequentially trained on a completely different image domain, alleviating catastrophic forgetting. Moreover, representation analysis revealed that fixed Gabor filters enabled networks to have similar representations across different domains, which may enable networks to adapt better to continuous learning. Together, Gabor filters in early layers could serve as key architectures for continual learning, highlighting the functional significance of stable early visual pathways in brains.
+
+publication_types: ["preprint"]
 
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
