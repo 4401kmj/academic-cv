@@ -53,7 +53,7 @@ sections:
   #   design:
   #     view: showcase
   #     # columns: 2
-  - block: collection
+  - block: collection_nolink
     id: papers
     content:
       title: Publications
@@ -64,7 +64,7 @@ sections:
         exclude_featured: false
     design:
       view: compact
-  - block: collection
+  - block: collection_nolink
     id: talks
     content:
       title: Featured presentation

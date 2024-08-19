@@ -6,7 +6,6 @@ authors:
 - Se-Bum Paik
 date: "2024-08-01"
 doi: ""
-
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-07-01"
 
@@ -34,6 +33,8 @@ publication_types: ["preprint"]
 # - name: ""
 #   url: ""
 url_pdf: https://2024.ccneuro.org/pdf/55_Paper_authored_CCN2024_Abstract_MinjunKang_revised-(0429).pdf
+url_main: https://2024.ccneuro.org/pdf/55_Paper_authored_CCN2024_Abstract_MinjunKang_revised-(0429).pdf
+# url_main: /publication/publication1
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: ''
 # url_poster: ''
