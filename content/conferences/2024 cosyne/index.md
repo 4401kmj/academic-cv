@@ -11,7 +11,7 @@ publishDate: "2024-07-01"
 # Publication name and optional abbreviated publication name.
 publication: "*Conference on Computational and Systems Neuroscience* ***(Cosyne)***"
 
-url_poster: poster/cosyne_poster_final.pdf
+url_poster: poster/Cosyne_Poster_Final.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
