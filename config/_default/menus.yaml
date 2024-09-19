@@ -19,7 +19,7 @@ main:
   - name: Research
     url: research/
     weight: 14
-  - name: Experiences
+  - name: Activities
     url: experiences/
     weight: 15
   - name: Hobbies

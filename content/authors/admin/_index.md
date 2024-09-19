@@ -159,6 +159,6 @@ awards:
 ## About Me
 Hi, my name is Minjun Kang. I graduated from the Korea Advanced Institute of Science and Technology ([KAIST](https://kaist.ac.kr)) in August 2023. Currently, I am working at the [Cognitive Intelligence Lab](https://cogi.kaist.ac.kr) at KAIST. 
 
-My research interests lies in the **<u>mathematical modeling of high-level cognitive functions</u>**. Specifically, I am fasinated by how the biological visual system differs from artificial vision in its adaptability and robustness under dynanmic environments, much like our natural world. You can find detailed research materials in the [Publications](/#papers) section. 
+My research interests lies in the **<u>mathematical modeling of cognitive functions</u>**. Specifically, I am fasinated by how the biological visual system differs from artificial vision in its adaptability and robustness under dynanmic environments, much like our natural world. You can find detailed research materials in the [Publications](/#papers) section. 
 
-To learn more about me, including my on-campus activities and hobbies, feel free to explore the [Experiences](experiences/) and [Hobbies](hobbies/) sections!
+To learn more about me, including my on-campus activities and hobbies, feel free to explore the [Activities](experiences/) and [Hobbies](hobbies/) sections!
