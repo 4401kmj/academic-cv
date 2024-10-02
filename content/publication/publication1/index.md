@@ -1,10 +1,10 @@
 ---
-title: "Inherent receptive fields in the early layer enable robust continual learning under dynamic environments"
+title: "Hard-wired visual filters for environment-agnostic object recognition"
 authors:
 - admin
 - Seungdae Baek
 - Se-Bum Paik
-date: "2024-08-01"
+date: "2024-10-02"
 doi: ""
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-07-01"
@@ -15,7 +15,7 @@ publishDate: "2024-07-01"
 # publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Conference on Cognitive Computational Neuroscience*"
+publication: "*bioRxiv*"
 # publication_short: ""
 
 abstract: Continuously learning new information is a fundamental ability of animals but a challenging problem for conventional deep neural networks (DNNs), which suffer from catastrophic forgetting. Unlike DNNs, whose early layers change depending on training images, the brain’s early visual pathway has innate Gabor-like receptive fields that are stably maintained throughout a lifetime. Here, we demonstrate that fixing early layers of DNNs using Gabor filters, resembling the primary visual cortex (V1) cells’ receptive fields, enables continual learning under dynamic environments. We first showed that networks with fixed Gabor filters maintained the previous performance even when sequentially trained on a completely different image domain, alleviating catastrophic forgetting. Moreover, representation analysis revealed that fixed Gabor filters enabled networks to have similar representations across different domains, which may enable networks to adapt better to continuous learning. Together, Gabor filters in early layers could serve as key architectures for continual learning, highlighting the functional significance of stable early visual pathways in brains.
@@ -32,8 +32,8 @@ publication_types: ["preprint"]
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://2024.ccneuro.org/pdf/55_Paper_authored_CCN2024_Abstract_MinjunKang_revised-(0429).pdf
-url_main: https://2024.ccneuro.org/pdf/55_Paper_authored_CCN2024_Abstract_MinjunKang_revised-(0429).pdf
+url_pdf: https://doi.org/10.1101/2024.09.30.615752
+url_main: https://doi.org/10.1101/2024.09.30.615752
 # url_main: /publication/publication1
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: ''
