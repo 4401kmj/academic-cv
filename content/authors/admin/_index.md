@@ -146,12 +146,19 @@ skills:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: Outstanding Poster Award (2024 KSBNS)
+    date: '2024-10-18'
+    icon: KSBNS
+    image: 
+    summary: |
+      I received the Outstanding Poster Award from the 2024 Korean Society for Brain and Neural Sciences (KSBNS).
+
   - title: Best Presentation Award (2020 KSCBP)
     date: '2020-08-28'
     icon: kscbp
     image: 
     summary: |
-      I received the best presentation award from the 2020 Korean Society for Cognitive & Biological Psychology (KSCBP) !!
+      I received the ([Best Presentation Award](/poster/kscbp_award.pdf)) from the 2020 Korean Society for Cognitive & Biological Psychology (KSCBP) !!
 
       The Poster presentation was substituted to recoreded-video due to COVID-19
 ---

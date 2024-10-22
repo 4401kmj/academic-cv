@@ -11,7 +11,7 @@ publishDate: "2024-08-01"
 # Publication name and optional abbreviated publication name.
 publication: "*Conference on Cognitive Computational Neuroscience* ***(CCN)***"
 
-url_poster: poster/CCN_poster.pdf
+url_poster: poster/2024CCN.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
