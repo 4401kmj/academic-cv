@@ -11,7 +11,9 @@ publishDate: "2024-10-01"
 publication: "*Conference on Korean Society for Brain and Neural Sciences* ***(KSBNS)***"
 
 url_poster: poster/2024KSBNS.pdf
-
+links:
+- name: awards
+  url: poster/Award_2024KSBNS.pdf
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # image:

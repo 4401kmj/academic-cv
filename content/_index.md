@@ -20,16 +20,6 @@ sections:
         url: uploads/CV_MinjunKang.pdf
     design:
       css_class: bright
-      # background:
-      #   color: white
-        # image:
-        #   # Add your image background to `assets/media/`.
-        #   filename: stacked-peaks.svg
-        #   filters:
-        #     brightness: 1.0
-        #   size: cover
-        #   position: center
-        #   parallax: false
   # - block: markdown
   #   content:
   #     title: '📚 My Research'
@@ -64,16 +54,16 @@ sections:
         exclude_featured: false
     design:
       view: compact
-  - block: collection_nolink
-    id: talks
-    content:
-      title: Featured presentation
-      filters:
-        folders:
-          - featured_presentation
-    design:
-      view: article-grid
-      columns: 1
+  # - block: collection_nolink
+  #   id: talks
+  #   content:
+  #     title: Featured presentation
+  #     filters:
+  #       folders:
+  #         - featured_presentation
+  #   design:
+  #     view: article-grid
+  #     columns: 1
   - block: collection
     id: conferences
     content:
