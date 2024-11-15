@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Minjun Kang</title>
+    <link>http://localhost:1313/posts/</link>
+      <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Oct 1999 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu4e76d6fbac24aaa02c98ac9f8ca08b2f_29139_512x512_fill_lanczos_center_3.png</url>
+      <title>Posts</title>
+      <link>http://localhost:1313/posts/</link>
+    </image>
+    
+    <item>
+      <title>🧠 Useful journal links for brain research</title>
+      <link>http://localhost:1313/posts/journals/</link>
+      <pubDate>Sun, 10 Oct 1999 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/journals/</guid>
+      <description>&lt;h3 id=&#34;nature&#34;&gt;Nature&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nature.com/nature/research-articles&#34;&gt;Nature&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nature.com/neuro/research-articles&#34;&gt;Nature Neuroscience&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nature.com/ncomms/research-articles&#34;&gt;Nature Communications&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nature.com/natmachintell/research-articles&#34;&gt;Nature Machine Intelligence&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;science&#34;&gt;Science&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.science.org/toc/science/current&#34;&gt;Science&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.science.org/toc/sciadv/current&#34;&gt;Science Advances&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;cell&#34;&gt;Cell&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cell.com/cell/newarticles&#34;&gt;Cell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cell.com/neuron/newarticles&#34;&gt;Neuron&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cell.com/cell-reports/current&#34;&gt;Cell Reports&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cell.com/current-biology/current&#34;&gt;Current Biology&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;others&#34;&gt;Others&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jneurosci.org/content/early/recent&#34;&gt;Journal of Neuroscience&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pnas.org/latest&#34;&gt;PNAS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
