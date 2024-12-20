@@ -1,8 +1,47 @@
 {{ $item := .item }}
 {{ $has_attachments := partial "functions/has_attachments" $item }}
 
-<div class="pub-list-item view-citation flex mb-8" style="margin-bottom: 1rem; width: 100%;">
-  <div class="flex-grow" style="width: 80%; padding-right: 1rem;">
+<head>
+  <style>
+    @media (min-width: 768px) {
+      .pub-list-item > div:first-child {
+        width: 20% !important;
+        margin-right: 1rem;  /* Add spacing between blocks */
+      }
+      
+      .pub-list-item > div:last-child {
+        width: 80% !important;
+      }
+    }
+
+    /* For mobile */
+    .pub-list-item > div:first-child {
+      width: 40%;
+      margin-left: auto;
+      margin-right: auto;
+      margin-bottom: 20px;
+    }
+  </style>
+</head>
+
+<div class="pub-list-item view-citation flex flex-col md:flex-row mb-8 w-full">
+  <!-- Right section for the image -->
+  <div class="shadow-md">
+    {{ $resource := partial "functions/get_featured_image.html" $item }}
+    {{ $anchor := $item.Params.image.focal_point | default "Center" }}
+
+    <a href="{{ $item.RelPermalink }}" class="block w-full">
+      <div class="image-container overflow-hidden">
+        {{ with $resource }}
+          {{ $image := .Fill (printf "560x370 %s" $anchor) }}
+          {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
+          <img class="h-full w-full rounded-lg object-cover hover:scale-125 transition duration-500 cursor-pointer" loading="lazy" src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}" alt="{{ $item.Title | plainify }}">
+        {{end}}
+      </div>
+    </a>
+  </div>
+
+  <div class="flex-grow ml-6">
     <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
     {{/* APA Style */}}
@@ -46,21 +85,5 @@
     {{ end }}
 
     {{ end }}
-  </div>
-
-  <!-- Right section for the image -->
-  <div style="width: 20%;">
-    {{ $resource := partial "functions/get_featured_image.html" $item }}
-    {{ $anchor := $item.Params.image.focal_point | default "Center" }}
-
-    <a href="{{ $item.RelPermalink }}" class="mb-5">
-      <div class="overflow-hidden">
-        {{ with $resource }}
-          {{ $image := .Fill (printf "560x370 %s" $anchor) }}
-          {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
-          <img class="h-full w-full rounded-lg shadow-sm object-cover hover:scale-125 transition duration-500 cursor-pointer object-cover" loading="lazy" src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}" alt="{{ $item.Title | plainify }}">
-        {{end}}
-      </div>
-    </a>
   </div>
 </div>

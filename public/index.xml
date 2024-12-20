@@ -270,5 +270,37 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
       <description>&lt;p&gt;I joined a band club called Muse at KAIST. I primarily played the piano (keyboard) and also sang. Feel free to visit our youtube for recent videos!&lt;/p&gt;</description>
     </item>
     
+    <item>
+      <title>🧠 Useful journal links for brain research</title>
+      <link>http://localhost:1313/posts/journals/</link>
+      <pubDate>Sun, 10 Oct 1999 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/journals/</guid>
+      <description>&lt;h3 id=&#34;nature&#34;&gt;Nature&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nature.com/nature/research-articles&#34;&gt;Nature&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nature.com/neuro/research-articles&#34;&gt;Nature Neuroscience&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nature.com/ncomms/research-articles&#34;&gt;Nature Communications&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nature.com/natmachintell/research-articles&#34;&gt;Nature Machine Intelligence&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;science&#34;&gt;Science&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.science.org/toc/science/current&#34;&gt;Science&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.science.org/toc/sciadv/current&#34;&gt;Science Advances&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;cell&#34;&gt;Cell&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cell.com/cell/newarticles&#34;&gt;Cell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cell.com/neuron/newarticles&#34;&gt;Neuron&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cell.com/cell-reports/current&#34;&gt;Cell Reports&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cell.com/current-biology/current&#34;&gt;Current Biology&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;others&#34;&gt;Others&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jneurosci.org/content/early/recent&#34;&gt;Journal of Neuroscience&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pnas.org/latest&#34;&gt;PNAS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
