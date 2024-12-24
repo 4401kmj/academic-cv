@@ -310,7 +310,6 @@
       "min-h-[calc(100vh-var(--navbar-height))]",
       "min-w-0",
       "min-w-[18px]",
-      "ml-6",
       "ml-auto",
       "mr-1",
       "mr-2",
