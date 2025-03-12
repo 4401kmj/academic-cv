@@ -37,7 +37,8 @@ profiles:
     url: https://scholar.google.com/citations?user=oVoPChoAAAAJ&hl=ko
   - icon: brands/github
     url: https://github.com/4401kmj
-
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/minjun-kang-b69b96351/
 
 interests:
   - Computational neuroscience
