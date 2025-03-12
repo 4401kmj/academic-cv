@@ -12,4 +12,4 @@ This website includes:
 -  **Activities/Hobbies**: My on-campus activities and hobbies!
 
 ## License
-The website is built using the **Hugo Blox - Academic CV** [url] (https://github.com/HugoBlox/theme-academic-cv) theme, which is open-source under the MIT license. 
+The website is built using the **Hugo Blox - Academic CV** [url](https://github.com/HugoBlox/theme-academic-cv) theme, which is open-source under the MIT license. 
