@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: BS in Bio and Brain Engineering
+role: Incoming PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: KAIST, South Korea
-    url: https://kaist.ac.kr/
+  - name: UC San Diego, CA
+    url: https://ucsd.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -41,11 +41,15 @@ profiles:
     url: https://www.linkedin.com/in/minjun-kang-b69b96351/
 
 interests:
-  - Computational neuroscience
+  - Computational Neuroscience
   - Neuro-inspired AI
   - Visual system
 
 education:
+  - area: PhD Biological Sciences (incoming)
+    institution: University of California San Diego (UCSD)
+    date_start: 2025-09-22
+
   - area: BS Bio and Brain Engineering
     institution: Korea Advanced Institute of Science and Technology (KAIST)
     date_start: 2017-02-28
@@ -167,8 +171,8 @@ awards:
 ---
 
 ## About Me
-Hi, my name is Minjun Kang. I graduated from the Korea Advanced Institute of Science and Technology ([KAIST](https://kaist.ac.kr)) in August 2023. Currently, I am working at the [Cognitive Intelligence Lab](https://cogi.kaist.ac.kr) at KAIST. 
+*In September 2025, I will begin my PhD in [Biological Sciences](https://biology.ucsd.edu/) at [UC San Diego](https://www.ucsd.edu/)!*
 
-My research interests lies in the **<u>mathematical modeling of cognitive functions</u>**. Specifically, I am fasinated by how the biological visual system differs from artificial vision in its adaptability and robustness under dynanmic environments, much like our natural world. You can find detailed research materials in the [Publications](/#papers) section. 
+My research focuses on **<u>mathematical modeling of cognitive functions</u>**, exploring how the brain's unique representations emerge and give rise to complex behaviors. You can find more details in the [Publications](/#papers) section.
 
-To learn more about me, including my on-campus activities and hobbies, feel free to explore the [Activities](experiences/) and [Hobbies](hobbies/) sections!
+To learn more about me, feel free to explore the [Activities](experiences/) and [Hobbies](hobbies/) sections!
